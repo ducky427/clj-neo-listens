@@ -17,4 +17,5 @@
            :uberjar {:aot :all}}
   :prep-tasks [["compile" "clj-neo-listens.core"]
                 "javac" "compile"]
+  :global-vars {*warn-on-reflection* true}
   :dependencies [[org.clojure/clojure "1.6.0"]])
