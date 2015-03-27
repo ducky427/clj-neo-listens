@@ -1,10 +1,10 @@
 # clj-neo-listens
 
-A Clojure library designed to ... well, that part is up to you.
+See Max De Marzi's [post](http://maxdemarzi.com/2015/03/25/triggers-in-neo4j/) about Triggers in Neo4j.
 
-## Usage
+Clojure implementation of sample Java code.
 
-FIXME
+
 
 ## License
 
